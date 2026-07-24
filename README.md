@@ -1,4 +1,4 @@
-# web-scraping
+# Web Scraping
 Web scraping using Beautiful Soup 
 
 # Simple Web Scraper Project
